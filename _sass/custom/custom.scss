@@ -1,0 +1,10 @@
+// Sidebar width
+@media (min-width: 66.5rem) { .side-bar { width: calc((100% - 1064px) / 2 + 361px); min-width: 361px; } }
+@media (min-width: 66.5rem) { .main { margin-left: Max(361px, calc((100% - 1064px) / 2 + 361px)); } }
+@media (min-width: 66.5rem) { .site-nav, .site-header, .site-footer { width: 361px; } }
+// Title font size in sidebar
+@media (min-width: 31.25rem) { .site-title {font-size: 15px !important} }
+@media (max-width: 31.25rem) { .site-title {font-size: 20px !important} }
+@media (min-width: 66.5rem) { .site-title {font-size: 20px !important} }
+// Shadow for images
+#main-content img {box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; }
