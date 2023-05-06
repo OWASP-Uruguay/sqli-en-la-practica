@@ -13,3 +13,5 @@ El contenido teórico comienza en la sección [Introducción](introduction.md), 
 Este material está basado en recursos públicos y experiencia de miembros de OWASP Uruguay. Las principales referencias son:
 - [OWASP Cheat Sheet Series: SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
 - [PortSwigger Web Security: SQL injection](https://portswigger.net/web-security/sql-injection)
+
+> **Nota**: Se invita a recurrir a los materiales y laboratorios provistos que son referenciados. Este sitio web apunta a recopilar los recursos con una explicación alternativa, traducida y en algunas secciones enriquecida.
